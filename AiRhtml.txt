@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Artificial Intuition Research Pvt. Ltd.</title>
+  <meta name="description" content="Foundational research into intuitive decision-making in Artificial Intelligence. Early stage. Hard problem. Worth solving." />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;500;700&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #0a0a0a;
+      color: #e2e2e0;
+      font-family: 'IBM Plex Mono', 'Courier New', monospace;
+      font-weight: 300;
+      font-size: 16px;
+      line-height: 1.9;
+      padding: 64px 24px 96px;
+    }
+
+    .container {
+      max-width: 620px;
+      margin: 0 auto;
+    }
+
+    /* Hero */
+    .hero {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .org-name {
+      font-size: 22px;
+      font-weight: 500;
+      color: #FF9933;
+      letter-spacing: 0.08em;
+      line-height: 1.9;
+      margin-bottom: 8px;
+    }
+
+    .logo {
+      display: block;
+      height: 56px;
+      width: auto;
+      object-fit: contain;
+      margin: 4px auto;
+    }
+
+    .tagline {
+      font-size: 19px;
+      font-weight: 500;
+      color: #138808;
+      letter-spacing: 0.04em;
+      line-height: 1.9;
+      margin-top: 8px;
+      margin-bottom: 4px;
+    }
+
+    .location {
+      font-size: 12px;
+      font-weight: 300;
+      color: #606060;
+      line-height: 1.9;
+    }
+
+    /* Sections */
+    .section {
+      margin-bottom: 0;
+    }
+
+    .divider {
+      border: none;
+      border-top: 1px solid #1f1f1f;
+      margin: 48px 0;
+    }
+
+    h2 {
+      font-size: 14px;
+      font-weight: 700;
+      color: #138808;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      line-height: 1.9;
+      margin-bottom: 16px;
+    }
+
+    .body-text p {
+      font-size: 16px;
+      font-weight: 300;
+      color: #e2e2e0;
+      line-height: 1.9;
+      margin-bottom: 16px;
+    }
+
+    .body-text p:last-child {
+      margin-bottom: 0;
+    }
+
+    /* Bullets */
+    .bullets {
+      list-style: none;
+      padding: 0;
+      margin-top: 16px;
+    }
+
+    .bullets li {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 8px;
+    }
+
+    .bullet-num {
+      font-size: 16px;
+      font-weight: 300;
+      color: #138808;
+      flex-shrink: 0;
+      width: 32px;
+      line-height: 1.9;
+    }
+
+    .bullet-body {
+      font-size: 16px;
+      font-weight: 300;
+      color: #138808;
+      line-height: 1.9;
+    }
+
+    .bullet-body-text {
+      color: #e2e2e0;
+    }
+
+    /* Contact */
+    .contact {
+      margin-top: 48px;
+    }
+
+    .contact p {
+      font-size: 16px;
+      font-weight: 300;
+      color: #e2e2e0;
+      line-height: 1.9;
+      margin-bottom: 16px;
+    }
+
+    .contact a {
+      color: #138808;
+      text-decoration: none;
+    }
+
+    .contact a:hover {
+      text-decoration: underline;
+    }
+
+    .footer-tagline {
+      font-size: 17px;
+      font-weight: 500;
+      line-height: 1.9;
+      letter-spacing: 0.02em;
+    }
+
+    .early  { color: #FF9933; }
+    .hard   { color: #ffffff; }
+    .worth  { color: #138808; }
+
+    /* Copyright */
+    .copyright-bar {
+      margin-top: 96px;
+      border-top: 1px solid #1f1f1f;
+      padding-top: 24px;
+    }
+
+    .copyright {
+      font-size: 12px;
+      font-weight: 300;
+      color: #606060;
+      line-height: 1.9;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <!-- Hero -->
+    <div class="hero">
+      <h1 class="org-name">Artificial Intuition Research Pvt. Ltd.</h1>
+      <img class="logo" src="a_i_research_logo crop.png" alt="Artificial Intuition Research logo" />
+      <p class="tagline">Advancing AI from Intelligence to Intuition</p>
+      <p class="location">Tamilnadu, India</p>
+    </div>
+
+    <!-- The Challenge -->
+    <section class="section">
+      <h2>The Challenge</h2>
+      <div class="body-text">
+        <p>Artificial Intelligence has come a long way in recognizing patterns, generating content and reasoning. But people don't decide on logic alone.</p>
+        <p>Intuitive signals precede conscious thought that often guide our biggest breakthroughs in entrepreneurship, scientific discovery, and crisis management. Intuition stems from our ability to recognize patterns subconsciously, weigh emotions, and infer from lived experiences.</p>
+        <p>Today's Artificial Intelligence systems is yet to catch up with this fundamental dimension of human cognition: intuitive decision-making. This is not an engineering gap. It's a scientific one.</p>
+      </div>
+    </section>
+
+    <hr class="divider" />
+
+    <!-- The Beginning -->
+    <section class="section">
+      <h2>The Beginning</h2>
+      <div class="body-text">
+        <p>Artificial Intuition Research Pvt. Ltd. is grounded on a specific falsifiable hypothesis: Intuition is scientifically definable and eventually engineerable. Human intuition is not mystical, and the right scientific language to model it has been missing. This is the founding insight.</p>
+        <p>The aim is not to mimic consciousness or recreate human identity but to explore how Artificial Intelligence in the future, might go beyond explicit reasoning to embrace sub-conscious intuitive way of making decisions.</p>
+      </div>
+    </section>
+
+    <hr class="divider" />
+
+    <!-- The Approach -->
+    <section class="section">
+      <h2>The Approach</h2>
+      <div class="body-text">
+        <p>Research comes First. Free from pressures of commercials, deadlines and the spotlight.</p>
+        <p>The singular focus is to publish foundational research and build experimental intuition models.</p>
+        <p>The research direction is multidisciplinary, drawing from computational thinking, neuroscience, physiology, psychology, and quantum physics. Some of these fields will sharpen the research. Others may not. That is part of the work.</p>
+        <p>Currently building three things in parallel:</p>
+      </div>
+
+      <ul class="bullets">
+        <li>
+          <span class="bullet-num">01.</span>
+          <span class="bullet-body">Discovery Phase — <span class="bullet-body-text">Synthesizing cross-disciplinary research to define the scientific limits of an intuitive signal framework.</span></span>
+        </li>
+        <li>
+          <span class="bullet-num">02.</span>
+          <span class="bullet-body">Research Forum — <span class="bullet-body-text">Opening the research to debate, break, and build the foundational definitions of what an "intuition model" looks like.</span></span>
+        </li>
+        <li>
+          <span class="bullet-num">03.</span>
+          <span class="bullet-body">Ecosystem — <span class="bullet-body-text">Building consortia with labs, universities, deep tech startups, and student interns who want to explore beyond the current LLM hype and work on what comes next.</span></span>
+        </li>
+      </ul>
+
+      <div class="contact">
+        <p>Contact <a href="mailto:ai@artificial-intuition.org">ai@artificial-intuition.org</a> to collaborate.</p>
+        <p class="footer-tagline">
+          <span class="early">Early stage.</span>
+          <span class="hard"> Hard problem.</span>
+          <span class="worth"> Worth solving.</span>
+        </p>
+      </div>
+    </section>
+
+    <!-- Copyright -->
+    <div class="copyright-bar">
+      <p class="copyright">© 2026 Artificial Intuition Research Pvt. Ltd.</p>
+    </div>
+
+  </div>
+</body>
+</html>
+
